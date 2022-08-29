@@ -8,4 +8,6 @@ This page is meant to maintain the curated list of the BIGG involved developers 
 | ------------- | ------------- |
 | picinbono  | CSTB  |
 | nbus  | CSTB  |
+|abouetCSTB|CSTB|
 | npastoCSTB  | CSTB  |
+
