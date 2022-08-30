@@ -8,6 +8,18 @@ This page is meant to maintain the curated list of the BIGG involved developers 
 | ------------- | ------------- |
 | picinbono  | CSTB  |
 | nbus  | CSTB  |
-|abouetCSTB|CSTB|
+| abouetCSTB | CSTB |
 | npastoCSTB  | CSTB  |
+| posymeon | domX |
+| efkeraniGR | domX |
+| rdevivo74 | Energis |
+| rhollanders | Energis |
+| adedan75 | Intuicy |
+| starblaster73 | Intuicy |
+| plap979 | Intuicy |
+| Davidbouret | Inetum | 
+| jkarbu | Cimne |
+| gmor | Cimne |
+| Plehanneur | Helexia |
+
 
