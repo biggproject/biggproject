@@ -19,8 +19,8 @@ This page is meant to maintain the curated list of the BIGG involved developers 
 | plap979 | Intuicy |
 | Davidbouret | Inetum | 
 | jkarbu | Cimne |
-| eloigabal | Cimne |
 | gmor | Cimne |
 | Plehanneur | Helexia |
+| alexisimo | Cimne |
 
 
