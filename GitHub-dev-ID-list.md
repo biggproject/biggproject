@@ -22,5 +22,6 @@ This page is meant to maintain the curated list of the BIGG involved developers 
 | gmor | Cimne |
 | Plehanneur | Helexia |
 | alexisimo | Cimne |
+| dahyoussef2 | Inetum |
 
 
