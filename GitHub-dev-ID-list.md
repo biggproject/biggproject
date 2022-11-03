@@ -6,6 +6,9 @@ This page is meant to maintain the curated list of the BIGG involved developers 
 
 | ID  | partner
 | ------------- | ------------- |
+| jkarbu | Cimne |
+| gmor | Cimne |
+| alexisimo | Cimne |
 | picinbono  | CSTB  |
 | nbus  | CSTB  |
 | abouetCSTB | CSTB |
@@ -14,14 +17,14 @@ This page is meant to maintain the curated list of the BIGG involved developers 
 | efkeraniGR | domX |
 | rdevivo74 | Energis |
 | rhollanders | Energis |
+| Plehanneur | Helexia |
+| nielstiben | Imec|
+| dahyoussef2 | Inetum |
+| Davidbouret | Inetum | 
 | adedan75 | Intuicy |
 | starblaster73 | Intuicy |
 | plap979 | Intuicy |
-| Davidbouret | Inetum | 
-| jkarbu | Cimne |
-| gmor | Cimne |
-| Plehanneur | Helexia |
-| alexisimo | Cimne |
-| dahyoussef2 | Inetum |
+
+
 
 
